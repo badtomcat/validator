@@ -1,17 +1,16 @@
 {
-  "name": "aweitian/validator",
+  "name": "badtomcat/validator",
   "description": "validators",
   "type": "project",
   "keywords": [
-    "aweitian",
-    "tiananwei",
+    "badtomcat",
     "validator"
   ],
-  "homepage": "https://github.com/aweitian/validator",
+  "homepage": "https://github.com/badtomcat/validator",
   "license": "MIT",
   "authors": [
     {
-      "name": "awei.tian@qq.com",
+      "name": "badtomcat",
       "email": "531164479@qq.com"
     }
   ],
